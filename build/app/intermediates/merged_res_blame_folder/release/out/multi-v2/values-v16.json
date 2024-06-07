@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.icab.appmotorista.app-mergeReleaseResources-127:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dougl\\.gradle\\caches\\transforms-3\\9811b73c074d5d73a2d1680d1562bba8\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "65",
+                        "endOffsets": "161"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dougl\\.gradle\\caches\\transforms-3\\225dd45f0ac386b9d2b4f329159d53c2\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "166",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "334"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dougl\\.gradle\\caches\\transforms-3\\a0f9a5bdc6c709f51e39f5c241d9ab7d\\transformed\\jetified-drop-in-6.13.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,6,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,295,788",
+                        "endLines": "5,14,25",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "290,783,1388"
+                    },
+                    "to": {
+                        "startLines": "7,11,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "339,534,1027",
+                        "endLines": "10,19,30",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "529,1022,1627"
+                    }
+                }
+            ]
+        }
+    ]
+}

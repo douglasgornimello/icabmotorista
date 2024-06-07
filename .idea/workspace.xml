@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7078fdeb-48c8-4878-bf73-b84054a553f7" name="Changes" comment="Versão 1" />
+    <list default="true" id="7078fdeb-48c8-4878-bf73-b84054a553f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,14 +22,6 @@
     <option name="KEY_STORE_PATH" value="C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\android\icabkeystore.jks" />
     <option name="KEY_ALIAS" value="icab" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,28 +33,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "AnalyzeApkAction.lastApkPath": "C:/Users/dougl/Box/ICAB/codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app/MightyTaxiSourceCode0/Driver App/android/app",
-    "AndroidRunProguardForReleaseBuild": "false",
-    "ApkExportedModule": "Driver App",
-    "BundleExportedModule": "Driver App",
-    "ExportedApkPathForDriver App": "C:\\Users\\dougl\\Box\\ICAB\\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\\MightyTaxiSourceCode0\\Driver App\\Driver App.apk",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "com.google.services.firebase.aqiPopupShown": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/dougl/OneDrive/Documentos/GitHub/icabmotorista",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "gradle.compiler",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;AnalyzeApkAction.lastApkPath&quot;: &quot;C:/Users/dougl/Box/ICAB/codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app/MightyTaxiSourceCode0/Driver App/android/app&quot;,
+    &quot;AndroidRunProguardForReleaseBuild&quot;: &quot;false&quot;,
+    &quot;ApkExportedModule&quot;: &quot;Driver App&quot;,
+    &quot;BundleExportedModule&quot;: &quot;Driver App&quot;,
+    &quot;ExportedApkPathForDriver App&quot;: &quot;C:\\Users\\dougl\\Box\\ICAB\\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\\MightyTaxiSourceCode0\\Driver App\\Driver App.apk&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dougl/Box/ICAB/codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app/MightyTaxiSourceCode0/Driver App&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;gradle.compiler&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\lib\language" />
@@ -141,20 +133,5 @@
       <updated>1713784773897</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Versão 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Versão 1" />
   </component>
 </project>

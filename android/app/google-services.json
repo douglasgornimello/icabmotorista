@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "991315419560",
+    "project_id": "icab-mobilidade",
+    "storage_bucket": "icab-mobilidade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991315419560:android:e646b99d58fb79114fbd9d",
+        "android_client_info": {
+          "package_name": "com.icab.appmotorista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991315419560-nm3ovlkjjg0pndd804ngl9eac0oah35n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icab.appmotorista",
+            "certificate_hash": "5ed4e1a2da30c595fc9286593498190319842c3e"
+          }
+        },
+        {
+          "client_id": "991315419560-ecno9dct5fr8m6aup4n0orhrndin179l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBW81KcM0oDg3rw6jw1y1GlGwnbu5DYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991315419560-ecno9dct5fr8m6aup4n0orhrndin179l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991315419560-14h5hd0sbibhn18pjqmp3mtjo8s2mnrk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icab.appmotorista"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991315419560:android:9baa582220a6dc264fbd9d",
+        "android_client_info": {
+          "package_name": "com.icab.passageiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991315419560-ecno9dct5fr8m6aup4n0orhrndin179l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBW81KcM0oDg3rw6jw1y1GlGwnbu5DYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991315419560-ecno9dct5fr8m6aup4n0orhrndin179l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991315419560-14h5hd0sbibhn18pjqmp3mtjo8s2mnrk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icab.appmotorista"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/layout-v26/abc_screen_toolbar.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/layout-v26/mtrl_calendar_month.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/layout-v26/mtrl_calendar_month.xml"
+    }
+]

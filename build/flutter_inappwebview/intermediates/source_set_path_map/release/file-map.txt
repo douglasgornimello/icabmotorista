@@ -1,0 +1,28 @@
+com.pichillilorenzo.flutter_inappwebview-webkit-1.5.0-0 C:\Users\dougl\.gradle\caches\transforms-3\29f1ef004af07059358e2ec303b82b80\transformed\webkit-1.5.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-appcompat-resources-1.5.1-1 C:\Users\dougl\.gradle\caches\transforms-3\3f81844c96666a131b6051260774329f\transformed\jetified-appcompat-resources-1.5.1\res
+com.pichillilorenzo.flutter_inappwebview-jetified-window-1.0.0-beta04-2 C:\Users\dougl\.gradle\caches\transforms-3\4f142809ef34e19bdf60ff3af73ee373\transformed\jetified-window-1.0.0-beta04\res
+com.pichillilorenzo.flutter_inappwebview-jetified-core-ktx-1.8.0-3 C:\Users\dougl\.gradle\caches\transforms-3\527d5fc2d0a257fcb167fc0c8700d981\transformed\jetified-core-ktx-1.8.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-emoji2-views-helper-1.2.0-4 C:\Users\dougl\.gradle\caches\transforms-3\555157a561d86fd61f63884ee0f220e1\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.pichillilorenzo.flutter_inappwebview-browser-1.4.0-5 C:\Users\dougl\.gradle\caches\transforms-3\5573ff0df79db9ea6720e88f060e6a7b\transformed\browser-1.4.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-emoji2-1.2.0-6 C:\Users\dougl\.gradle\caches\transforms-3\5e27842d0b7ca71e5b39b4c5c5452e57\transformed\jetified-emoji2-1.2.0\res
+com.pichillilorenzo.flutter_inappwebview-lifecycle-runtime-2.5.1-7 C:\Users\dougl\.gradle\caches\transforms-3\5ee23bb54da82926bef580bf8f4ef01a\transformed\lifecycle-runtime-2.5.1\res
+com.pichillilorenzo.flutter_inappwebview-jetified-annotation-experimental-1.1.0-8 C:\Users\dougl\.gradle\caches\transforms-3\614c6f7f48de9669e6c19ac437503f15\transformed\jetified-annotation-experimental-1.1.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-lifecycle-process-2.4.1-9 C:\Users\dougl\.gradle\caches\transforms-3\620fca081c6d7144c8ec754838812182\transformed\jetified-lifecycle-process-2.4.1\res
+com.pichillilorenzo.flutter_inappwebview-jetified-window-java-1.0.0-beta04-10 C:\Users\dougl\.gradle\caches\transforms-3\671922642d780fa8a0937f0e9e73af45\transformed\jetified-window-java-1.0.0-beta04\res
+com.pichillilorenzo.flutter_inappwebview-jetified-lifecycle-viewmodel-savedstate-2.5.1-11 C:\Users\dougl\.gradle\caches\transforms-3\7bda7b174151fd39ca6aa032ddff6702\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.pichillilorenzo.flutter_inappwebview-lifecycle-viewmodel-2.5.1-12 C:\Users\dougl\.gradle\caches\transforms-3\86276e4adf47aac8efbb51429a45279d\transformed\lifecycle-viewmodel-2.5.1\res
+com.pichillilorenzo.flutter_inappwebview-swiperefreshlayout-1.1.0-13 C:\Users\dougl\.gradle\caches\transforms-3\9c3f0b6d39523ba99da5fce9f9f92f70\transformed\swiperefreshlayout-1.1.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-activity-1.5.1-14 C:\Users\dougl\.gradle\caches\transforms-3\a38bfb4e013d4395f11bd669a2ff32ad\transformed\jetified-activity-1.5.1\res
+com.pichillilorenzo.flutter_inappwebview-appcompat-1.5.1-15 C:\Users\dougl\.gradle\caches\transforms-3\bc8e3265384bf6095676fad6b21f8f7f\transformed\appcompat-1.5.1\res
+com.pichillilorenzo.flutter_inappwebview-lifecycle-livedata-core-2.5.1-16 C:\Users\dougl\.gradle\caches\transforms-3\c9c63091b6388d300bbee092bdc13ac3\transformed\lifecycle-livedata-core-2.5.1\res
+com.pichillilorenzo.flutter_inappwebview-jetified-savedstate-1.2.0-17 C:\Users\dougl\.gradle\caches\transforms-3\cdbb36b2b6aa4c94ba469a74f9c69017\transformed\jetified-savedstate-1.2.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-startup-runtime-1.1.1-18 C:\Users\dougl\.gradle\caches\transforms-3\d8eef8c594ab01810d3bc9fcb5ae0cb6\transformed\jetified-startup-runtime-1.1.1\res
+com.pichillilorenzo.flutter_inappwebview-fragment-1.3.6-19 C:\Users\dougl\.gradle\caches\transforms-3\e5d037f5bc98da85c598f53886ff521d\transformed\fragment-1.3.6\res
+com.pichillilorenzo.flutter_inappwebview-core-1.8.0-20 C:\Users\dougl\.gradle\caches\transforms-3\f0c3fb37794c8802fe5c48fea72e2c80\transformed\core-1.8.0\res
+com.pichillilorenzo.flutter_inappwebview-main-21 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_inappwebview-5.8.0\android\src\main\res
+com.pichillilorenzo.flutter_inappwebview-release-22 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_inappwebview-5.8.0\android\src\release\res
+com.pichillilorenzo.flutter_inappwebview-resValues-23 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_inappwebview\generated\res\resValues\release
+com.pichillilorenzo.flutter_inappwebview-rs-24 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_inappwebview\generated\res\rs\release
+com.pichillilorenzo.flutter_inappwebview-mergeReleaseResources-25 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_inappwebview\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.pichillilorenzo.flutter_inappwebview-mergeReleaseResources-26 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_inappwebview\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.pichillilorenzo.flutter_inappwebview-merged_res-27 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_inappwebview\intermediates\merged_res\release

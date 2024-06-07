@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.icab.appmotorista.app-mergeReleaseResources-127:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dougl\\.gradle\\caches\\transforms-3\\225dd45f0ac386b9d2b4f329159d53c2\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "119",
+                        "endLines": "7",
+                        "endColumns": "13",
+                        "endOffsets": "391"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dougl\\.gradle\\caches\\transforms-3\\0a7a2e4a6bddbe35f8c4878068afc63b\\transformed\\jetified-payments-core-20.37.4\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

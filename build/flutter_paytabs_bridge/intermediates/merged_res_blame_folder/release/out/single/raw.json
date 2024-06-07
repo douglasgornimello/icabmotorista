@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/raw/payment_card_types.bin",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/raw/payment_card_types.bin"
+    }
+]

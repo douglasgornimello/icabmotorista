@@ -1,0 +1,15 @@
+com.ryanheise.audio_session-media-1.4.1-0 C:\Users\dougl\.gradle\caches\transforms-3\008d4623111585634652f19cf2460525\transformed\media-1.4.1\res
+com.ryanheise.audio_session-jetified-window-1.0.0-beta04-1 C:\Users\dougl\.gradle\caches\transforms-3\4f142809ef34e19bdf60ff3af73ee373\transformed\jetified-window-1.0.0-beta04\res
+com.ryanheise.audio_session-jetified-annotation-experimental-1.1.0-2 C:\Users\dougl\.gradle\caches\transforms-3\614c6f7f48de9669e6c19ac437503f15\transformed\jetified-annotation-experimental-1.1.0\res
+com.ryanheise.audio_session-jetified-window-java-1.0.0-beta04-3 C:\Users\dougl\.gradle\caches\transforms-3\671922642d780fa8a0937f0e9e73af45\transformed\jetified-window-java-1.0.0-beta04\res
+com.ryanheise.audio_session-core-1.6.0-4 C:\Users\dougl\.gradle\caches\transforms-3\6c30e2d4e8f32715236d7b1b5d6aec98\transformed\core-1.6.0\res
+com.ryanheise.audio_session-jetified-media2-common-1.2.1-5 C:\Users\dougl\.gradle\caches\transforms-3\7ee04291423859bb44c73497f89181b2\transformed\jetified-media2-common-1.2.1\res
+com.ryanheise.audio_session-jetified-media2-session-1.2.1-6 C:\Users\dougl\.gradle\caches\transforms-3\f133aac3c9840b13c3a80bc952d0c276\transformed\jetified-media2-session-1.2.1\res
+com.ryanheise.audio_session-main-7 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.1.19\android\src\main\res
+com.ryanheise.audio_session-release-8 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.1.19\android\src\release\res
+com.ryanheise.audio_session-pngs-9 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\audio_session\generated\res\pngs\release
+com.ryanheise.audio_session-resValues-10 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\audio_session\generated\res\resValues\release
+com.ryanheise.audio_session-rs-11 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\audio_session\generated\res\rs\release
+com.ryanheise.audio_session-mergeReleaseResources-12 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\audio_session\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ryanheise.audio_session-mergeReleaseResources-13 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\audio_session\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ryanheise.audio_session-merged_res-14 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\audio_session\intermediates\merged_res\release

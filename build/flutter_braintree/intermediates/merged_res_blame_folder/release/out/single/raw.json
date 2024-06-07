@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/raw/delete_payment_method_mutation.graphql",
+        "source": "com.example.flutter_braintree-jetified-braintree-core-4.38.2-15:/raw/delete_payment_method_mutation.graphql"
+    }
+]

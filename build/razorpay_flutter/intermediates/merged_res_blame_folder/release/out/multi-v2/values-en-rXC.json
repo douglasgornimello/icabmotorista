@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.razorpay.razorpay_flutter-mergeReleaseResources-23:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dougl\\.gradle\\caches\\transforms-3\\f0c3fb37794c8802fe5c48fea72e2c80\\transformed\\core-1.8.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.razorpay.razorpay_flutter-merged_res-25:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dougl\\.gradle\\caches\\transforms-3\\f0c3fb37794c8802fe5c48fea72e2c80\\transformed\\core-1.8.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        }
+    ]
+}

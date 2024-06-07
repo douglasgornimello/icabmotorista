@@ -1,0 +1,12 @@
+com.alexmiller.map_launcher-jetified-window-1.0.0-beta04-0 C:\Users\dougl\.gradle\caches\transforms-3\4f142809ef34e19bdf60ff3af73ee373\transformed\jetified-window-1.0.0-beta04\res
+com.alexmiller.map_launcher-jetified-annotation-experimental-1.1.0-1 C:\Users\dougl\.gradle\caches\transforms-3\614c6f7f48de9669e6c19ac437503f15\transformed\jetified-annotation-experimental-1.1.0\res
+com.alexmiller.map_launcher-jetified-window-java-1.0.0-beta04-2 C:\Users\dougl\.gradle\caches\transforms-3\671922642d780fa8a0937f0e9e73af45\transformed\jetified-window-java-1.0.0-beta04\res
+com.alexmiller.map_launcher-core-1.6.0-3 C:\Users\dougl\.gradle\caches\transforms-3\6c30e2d4e8f32715236d7b1b5d6aec98\transformed\core-1.6.0\res
+com.alexmiller.map_launcher-main-4 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.3.0\android\src\main\res
+com.alexmiller.map_launcher-release-5 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.3.0\android\src\release\res
+com.alexmiller.map_launcher-pngs-6 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\map_launcher\generated\res\pngs\release
+com.alexmiller.map_launcher-resValues-7 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\map_launcher\generated\res\resValues\release
+com.alexmiller.map_launcher-rs-8 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\map_launcher\generated\res\rs\release
+com.alexmiller.map_launcher-mergeReleaseResources-9 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\map_launcher\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.alexmiller.map_launcher-mergeReleaseResources-10 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\map_launcher\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.alexmiller.map_launcher-merged_res-11 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\map_launcher\intermediates\merged_res\release

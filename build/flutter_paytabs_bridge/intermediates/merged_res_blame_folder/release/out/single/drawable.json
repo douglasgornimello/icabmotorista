@@ -1,0 +1,690 @@
+[
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_seekbar_track_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_track.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_track.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_adcb_logo.png",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_adcb_logo.png"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_item_background_holo_light.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_ic_checkbox_checked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_ic_checkbox_checked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ratingbar_small_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/m3_avd_hide_password.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/m3_avd_hide_password.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_close_button_light.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_close_button_light.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_lock_light.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_lock_light.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_btn_borderless_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bg_expandable.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bg_expandable.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_ic_unknown.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_ic_unknown.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_iv_toggle_on_thumb.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_iv_toggle_on_thumb.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_ab_back_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_flash_on_dark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_flash_on_dark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_ic_checkbox_unchecked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_ic_checkbox_unchecked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_clock_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_clock_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_ic_check_mark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_ic_check_mark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_star_black_48dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_star_black_48dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/m3_tabs_line_indicator.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/m3_tabs_line_indicator.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_discount_border.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_discount_border.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb_pressed_checked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb_pressed_checked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_tab_indicator_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/design_ic_visibility_off.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_card_border_correct.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_card_border_correct.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_mbme_button_bg.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_mbme_button_bg.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_lock_dark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_lock_dark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_flash_off_dark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_flash_off_dark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ratingbar_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/design_password_eye.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/navigation_empty_icon.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_btn_radio_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_iv_toggle_on_track.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_iv_toggle_on_track.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_iv_toggle_off_thumb.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_iv_toggle_off_thumb.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_iv_camera.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_iv_camera.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/avd_show_password.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/avd_show_password.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/m3_tabs_rounded_line_indicator.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/m3_tabs_rounded_line_indicator.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_close_button_dark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_close_button_dark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_iv_logo.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_iv_logo.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_clear_black_24.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_clear_black_24.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb_checked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb_checked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_flash_off_light.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_flash_off_light.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_textfield_search_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_dropdown_arrow.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/m3_avd_show_password.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/m3_avd_show_password.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/notification_bg_low.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/m3_password_eye.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/m3_password_eye.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/design_fab_background.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_card_border_found.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_card_border_found.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_m3_chip_close.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_m3_chip_close.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_search_api_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_ic_cancel.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_item_background_holo_dark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_cab_background_top_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_switch_thumb_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_mbme_header_bg.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_mbme_header_bg.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb_checked_pressed.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb_checked_pressed.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_m3_chip_check.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_m3_chip_check.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/material_ic_calendar_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/material_ic_calendar_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_clear_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/material_ic_menu_arrow_down_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_back_arrow.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_back_arrow.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_iv_toggle_off.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_iv_toggle_off.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_bottomsheet_drag_handle.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_bottomsheet_drag_handle.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_card_background_correct.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_card_background_correct.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_dialog_background.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_card_background_not_found.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_card_background_not_found.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/material_ic_edit_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/material_ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/btn_radio_on_mtrl.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb_pressed_unchecked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb_pressed_unchecked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bg_white_rounded.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bg_white_rounded.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_text_cursor_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button_icon.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button_icon.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button_checked_unchecked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_icon_arrow_expanded.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_icon_arrow_expanded.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/notification_tile_bg.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_camera_swap_light.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_camera_swap_light.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button_unchecked_checked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_mtrl_checked_circle.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bg_white.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bg_white.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/avd_hide_password.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/avd_hide_password.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_arrow_back_black_24.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_arrow_back_black_24.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/tooltip_frame_light.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb_checked_unchecked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_card_border_not_found.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_card_border_not_found.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_card_background_wrong.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_card_background_wrong.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_m3_chip_checked_circle.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_m3_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_popupmenu_background.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bg_bottom_sheet_dialog_fragment.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bg_bottom_sheet_dialog_fragment.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/test_level_drawable.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/test_level_drawable.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb_unchecked_checked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_edittext_bg.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_edittext_bg.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_icon_arrow_collapsed.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_icon_arrow_collapsed.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_btn_radio_material_anim.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_vector_test.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-appcompat-resources-1.6.1-21:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/material_ic_menu_arrow_up_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/material_ic_menu_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_flash_on_light.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_flash_on_light.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_keyboard_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/tooltip_frame_dark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_clear.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_clear.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_iv_toggle_on.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_iv_toggle_on.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_mbme_bg.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_mbme_bg.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_ic_arrow_drop_up.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_chebox_selector.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_chebox_selector.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_list_selector_holo_light.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/m3_bottom_sheet_drag_handle.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/m3_bottom_sheet_drag_handle.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_menu_share_mtrl_alpha.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_ic_arrow_down.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_track_decoration.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_track_decoration.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb_unchecked.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb_unchecked.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/design_ic_visibility.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/btn_radio_off_mtrl.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_card_background_found.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_card_background_found.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/design_snackbar_background.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_popupmenu_background_overlay.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/notification_bg.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_input_field_background.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_input_field_background.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_ic_error.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/payment_sdk_scan_card.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/payment_sdk_scan_card.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/material_ic_clear_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/material_ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_ic_indeterminate.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_ic_indeterminate.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_search_black_24.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/ic_search_black_24.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_btn_check_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_btn_check_material_anim.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/m3_popupmenu_background_overlay.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/m3_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_card_border_wrong.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_card_border_wrong.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb_pressed.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb_pressed.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_baseline_delete_24.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_camera_swap_dark.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_camera_swap_dark.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/notification_icon_background.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_switch_thumb_unchecked_pressed.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_switch_thumb_unchecked_pressed.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/ic_payment_sdk_iv_blank_card.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/ic_payment_sdk_iv_blank_card.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/bouncer_card_border_found_long.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable/bouncer_card_border_found_long.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/mtrl_ic_arrow_drop_down.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/drawable/mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable/abc_star_half_black_48dp.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/drawable/abc_star_half_black_48dp.xml"
+    }
+]

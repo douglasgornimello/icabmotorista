@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable-ldpi-v4/ic_call_answer_video.png",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable-ldpi-v4/ic_call_answer_video_low.png",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable-ldpi-v4/ic_call_decline.png",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable-ldpi-v4/ic_svg_mada.png",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-jetified-payment-sdk-6.5.9-27:/drawable-ldpi-v4/ic_svg_mada.png"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable-ldpi-v4/ic_call_answer_low.png",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable-ldpi-v4/ic_call_decline_low.png",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/drawable-ldpi-v4/ic_call_answer.png",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-core-1.12.0-25:/drawable-ldpi-v4/ic_call_answer.png"
+    }
+]

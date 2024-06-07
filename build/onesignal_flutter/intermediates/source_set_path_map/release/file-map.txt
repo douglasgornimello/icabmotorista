@@ -1,0 +1,36 @@
+com.onesignal.flutter.onesignal_flutter-jetified-notifications-5.1.9-0 C:\Users\dougl\.gradle\caches\transforms-3\041c14f80b055617437733429843232c\transformed\jetified-notifications-5.1.9\res
+com.onesignal.flutter.onesignal_flutter-jetified-location-5.1.9-1 C:\Users\dougl\.gradle\caches\transforms-3\043aeb74563b9479c902c884eaa74947\transformed\jetified-location-5.1.9\res
+com.onesignal.flutter.onesignal_flutter-sqlite-2.3.0-2 C:\Users\dougl\.gradle\caches\transforms-3\21a43f35631a5561605056e9142e02d8\transformed\sqlite-2.3.0\res
+com.onesignal.flutter.onesignal_flutter-jetified-play-services-basement-18.1.0-3 C:\Users\dougl\.gradle\caches\transforms-3\2f1d397e98384ae5843526abf46a6476\transformed\jetified-play-services-basement-18.1.0\res
+com.onesignal.flutter.onesignal_flutter-jetified-window-1.0.0-beta04-4 C:\Users\dougl\.gradle\caches\transforms-3\4f142809ef34e19bdf60ff3af73ee373\transformed\jetified-window-1.0.0-beta04\res
+com.onesignal.flutter.onesignal_flutter-work-runtime-ktx-2.8.1-5 C:\Users\dougl\.gradle\caches\transforms-3\5182fc24d6e8ff94315479e24ba7f51a\transformed\work-runtime-ktx-2.8.1\res
+com.onesignal.flutter.onesignal_flutter-jetified-firebase-common-20.4.2-6 C:\Users\dougl\.gradle\caches\transforms-3\51ec9ed972ed5b559923c2d77d20f739\transformed\jetified-firebase-common-20.4.2\res
+com.onesignal.flutter.onesignal_flutter-jetified-annotation-experimental-1.1.0-7 C:\Users\dougl\.gradle\caches\transforms-3\614c6f7f48de9669e6c19ac437503f15\transformed\jetified-annotation-experimental-1.1.0\res
+com.onesignal.flutter.onesignal_flutter-appcompat-1.3.1-8 C:\Users\dougl\.gradle\caches\transforms-3\65538aa5d88fb7eb4a88e34b7940eec6\transformed\appcompat-1.3.1\res
+com.onesignal.flutter.onesignal_flutter-jetified-appcompat-resources-1.3.1-9 C:\Users\dougl\.gradle\caches\transforms-3\670dca987037950f122ccae417d223d2\transformed\jetified-appcompat-resources-1.3.1\res
+com.onesignal.flutter.onesignal_flutter-jetified-window-java-1.0.0-beta04-10 C:\Users\dougl\.gradle\caches\transforms-3\671922642d780fa8a0937f0e9e73af45\transformed\jetified-window-java-1.0.0-beta04\res
+com.onesignal.flutter.onesignal_flutter-core-1.6.0-11 C:\Users\dougl\.gradle\caches\transforms-3\6c30e2d4e8f32715236d7b1b5d6aec98\transformed\core-1.6.0\res
+com.onesignal.flutter.onesignal_flutter-jetified-in-app-messages-5.1.9-12 C:\Users\dougl\.gradle\caches\transforms-3\6e2024930004cf657eb83610fc8d601f\transformed\jetified-in-app-messages-5.1.9\res
+com.onesignal.flutter.onesignal_flutter-jetified-play-services-base-18.0.1-13 C:\Users\dougl\.gradle\caches\transforms-3\731455e84753b182a5861ae16fa3cc77\transformed\jetified-play-services-base-18.0.1\res
+com.onesignal.flutter.onesignal_flutter-jetified-firebase-messaging-23.4.0-14 C:\Users\dougl\.gradle\caches\transforms-3\8400bfeb148bdcda49c12a02d7308e5d\transformed\jetified-firebase-messaging-23.4.0\res
+com.onesignal.flutter.onesignal_flutter-jetified-startup-runtime-1.0.0-15 C:\Users\dougl\.gradle\caches\transforms-3\8cfec61075abc3e438c84bb1ee0eaf19\transformed\jetified-startup-runtime-1.0.0\res
+com.onesignal.flutter.onesignal_flutter-lifecycle-runtime-2.3.1-16 C:\Users\dougl\.gradle\caches\transforms-3\931619970ebee88199c3bdcdea4d480a\transformed\lifecycle-runtime-2.3.1\res
+com.onesignal.flutter.onesignal_flutter-jetified-core-5.1.9-17 C:\Users\dougl\.gradle\caches\transforms-3\958a3d3e9658411b7534f2c55a8ad1ff\transformed\jetified-core-5.1.9\res
+com.onesignal.flutter.onesignal_flutter-sqlite-framework-2.3.0-18 C:\Users\dougl\.gradle\caches\transforms-3\9a7a74beb5893a90555a9202833416b0\transformed\sqlite-framework-2.3.0\res
+com.onesignal.flutter.onesignal_flutter-jetified-savedstate-1.1.0-19 C:\Users\dougl\.gradle\caches\transforms-3\a106e1085483c62d6df2be970a4e0744\transformed\jetified-savedstate-1.1.0\res
+com.onesignal.flutter.onesignal_flutter-cardview-1.0.0-20 C:\Users\dougl\.gradle\caches\transforms-3\a76e74f3599754b65a2c1124bab21869\transformed\cardview-1.0.0\res
+com.onesignal.flutter.onesignal_flutter-work-runtime-2.8.1-21 C:\Users\dougl\.gradle\caches\transforms-3\b70c9b3408d0e0d1f5d330950a78f23b\transformed\work-runtime-2.8.1\res
+com.onesignal.flutter.onesignal_flutter-media-1.0.0-22 C:\Users\dougl\.gradle\caches\transforms-3\dcf5e33c00a3df5612393bd165888ca4\transformed\media-1.0.0\res
+com.onesignal.flutter.onesignal_flutter-fragment-1.3.6-23 C:\Users\dougl\.gradle\caches\transforms-3\e5d037f5bc98da85c598f53886ff521d\transformed\fragment-1.3.6\res
+com.onesignal.flutter.onesignal_flutter-room-runtime-2.5.0-24 C:\Users\dougl\.gradle\caches\transforms-3\ee461d8eb6f21ef82b247e05bf1762da\transformed\room-runtime-2.5.0\res
+com.onesignal.flutter.onesignal_flutter-lifecycle-viewmodel-2.3.1-25 C:\Users\dougl\.gradle\caches\transforms-3\f90a97ebbac80bff20105517c6596022\transformed\lifecycle-viewmodel-2.3.1\res
+com.onesignal.flutter.onesignal_flutter-browser-1.3.0-26 C:\Users\dougl\.gradle\caches\transforms-3\fcb9808105b1f37f87f535c4861ca1ce\transformed\browser-1.3.0\res
+com.onesignal.flutter.onesignal_flutter-coordinatorlayout-1.0.0-27 C:\Users\dougl\.gradle\caches\transforms-3\fcc75423c4ef0c243e8a4913f2f88afb\transformed\coordinatorlayout-1.0.0\res
+com.onesignal.flutter.onesignal_flutter-main-28 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\onesignal_flutter-5.1.5\android\src\main\res
+com.onesignal.flutter.onesignal_flutter-release-29 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\onesignal_flutter-5.1.5\android\src\release\res
+com.onesignal.flutter.onesignal_flutter-pngs-30 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\onesignal_flutter\generated\res\pngs\release
+com.onesignal.flutter.onesignal_flutter-resValues-31 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\onesignal_flutter\generated\res\resValues\release
+com.onesignal.flutter.onesignal_flutter-rs-32 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\onesignal_flutter\generated\res\rs\release
+com.onesignal.flutter.onesignal_flutter-mergeReleaseResources-33 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\onesignal_flutter\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.onesignal.flutter.onesignal_flutter-mergeReleaseResources-34 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\onesignal_flutter\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.onesignal.flutter.onesignal_flutter-merged_res-35 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\onesignal_flutter\intermediates\merged_res\release

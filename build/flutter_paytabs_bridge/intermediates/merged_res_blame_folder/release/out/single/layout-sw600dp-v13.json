@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-material-1.11.0-0:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

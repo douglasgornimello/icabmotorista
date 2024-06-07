@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/color-v23/abc_color_highlight_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/color-v23/abc_tint_edittext.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/color-v23/abc_tint_default.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/color-v23/abc_tint_spinner.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/color-v23/abc_tint_switch_track.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-merged_res-50:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "com.paymentsdk.flutter_paymentsdk_bridge.flutter_paytabs_bridge-appcompat-1.6.1-5:/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

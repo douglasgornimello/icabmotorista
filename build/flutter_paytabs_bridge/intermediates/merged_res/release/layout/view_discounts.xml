@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:parentTag="android.widget.FrameLayout">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/payment_sdk_discount_title"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:fontFamily="@font/payment_sdk_primary_font"
+                android:text="@string/payment_sdk_discount_title"
+                android:textColor="@color/payment_sdk_title_text_color"
+                android:textSize="@dimen/payment_sdk_primary_font_size"
+                android:textStyle="bold" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/payment_sdk_discount_see_all"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:fontFamily="@font/payment_sdk_primary_font"
+                android:textColor="@color/payment_sdk_secondary_color"
+                android:textSize="@dimen/payment_sdk_primary_font_size"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/payment_sdk_discounts_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/payment_sdk_discount_border"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/payment_sdk_discount_title_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:fontFamily="@font/payment_sdk_primary_font"
+                android:paddingStart="8dp"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:paddingEnd="8dp"
+                android:singleLine="true"
+                android:text="@string/payment_sdk_discount_title"
+                android:textColor="@color/payment_sdk_title_text_color"
+                android:textSize="@dimen/payment_sdk_primary_font_size"
+                tools:text="40.00 AED discount on cards starts with 41111" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/payment_sdk_discount_title_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:fontFamily="@font/payment_sdk_primary_font"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:paddingBottom="8dp"
+                android:singleLine="true"
+                android:text="@string/payment_sdk_discount_title"
+                android:textColor="@color/payment_sdk_title_text_color"
+                android:textSize="@dimen/payment_sdk_primary_font_size"
+                android:visibility="gone"
+                tools:text="40.00 AED discount on cards starts with 41111"
+                tools:visibility="visible" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</merge>

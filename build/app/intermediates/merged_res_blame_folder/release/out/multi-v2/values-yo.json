@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.icab.appmotorista.app-mergeReleaseResources-127:/values-yo/values-yo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dougl\\.gradle\\caches\\transforms-3\\3f970b9101b0c26e932c1a336c0aadfc\\transformed\\jetified-hcaptcha-20.37.4\\res\\values-yo\\values-yo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

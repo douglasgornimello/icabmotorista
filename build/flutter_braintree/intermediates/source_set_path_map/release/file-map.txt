@@ -1,0 +1,43 @@
+com.example.flutter_braintree-transition-1.2.0-0 C:\Users\dougl\.gradle\caches\transforms-3\0cda15255202aba6c26b7a508f27093a\transformed\transition-1.2.0\res
+com.example.flutter_braintree-browser-1.5.0-1 C:\Users\dougl\.gradle\caches\transforms-3\15d2f56b78860106fac5d51b5c6f594f\transformed\browser-1.5.0\res
+com.example.flutter_braintree-jetified-lifecycle-runtime-ktx-2.4.1-2 C:\Users\dougl\.gradle\caches\transforms-3\318b3570090a63f8e048281014f338b3\transformed\jetified-lifecycle-runtime-ktx-2.4.1\res
+com.example.flutter_braintree-core-1.7.0-alpha01-3 C:\Users\dougl\.gradle\caches\transforms-3\399b4f45c3f13128421b0d21711a1dd5\transformed\core-1.7.0-alpha01\res
+com.example.flutter_braintree-jetified-flexbox-3.0.0-4 C:\Users\dougl\.gradle\caches\transforms-3\49ee27d9b3994c2485a66eccde49d308\transformed\jetified-flexbox-3.0.0\res
+com.example.flutter_braintree-jetified-window-1.0.0-beta04-5 C:\Users\dougl\.gradle\caches\transforms-3\4f142809ef34e19bdf60ff3af73ee373\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_braintree-jetified-google-pay-4.38.2-6 C:\Users\dougl\.gradle\caches\transforms-3\52b6cddf2e73c3308205d58c2c7418bc\transformed\jetified-google-pay-4.38.2\res
+com.example.flutter_braintree-coordinatorlayout-1.1.0-7 C:\Users\dougl\.gradle\caches\transforms-3\55f44686b501ddb07d4dd2d554189c15\transformed\coordinatorlayout-1.1.0\res
+com.example.flutter_braintree-recyclerview-1.2.1-8 C:\Users\dougl\.gradle\caches\transforms-3\5984b8fdc5444be7777b32234177e624\transformed\recyclerview-1.2.1\res
+com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9 C:\Users\dougl\.gradle\caches\transforms-3\5990afcc680ff10e84d4ea7e40904039\transformed\jetified-cardinalmobilesdk-2.2.7-5\res
+com.example.flutter_braintree-jetified-play-services-basement-18.0.0-10 C:\Users\dougl\.gradle\caches\transforms-3\5f5ba59566694017d977b240941569e9\transformed\jetified-play-services-basement-18.0.0\res
+com.example.flutter_braintree-jetified-annotation-experimental-1.1.0-11 C:\Users\dougl\.gradle\caches\transforms-3\614c6f7f48de9669e6c19ac437503f15\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_braintree-jetified-emoji2-1.0.0-alpha03-12 C:\Users\dougl\.gradle\caches\transforms-3\6704570eb074b1f52d10c9412b20f5ab\transformed\jetified-emoji2-1.0.0-alpha03\res
+com.example.flutter_braintree-jetified-window-java-1.0.0-beta04-13 C:\Users\dougl\.gradle\caches\transforms-3\671922642d780fa8a0937f0e9e73af45\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_braintree-jetified-play-services-base-18.0.1-14 C:\Users\dougl\.gradle\caches\transforms-3\731455e84753b182a5861ae16fa3cc77\transformed\jetified-play-services-base-18.0.1\res
+com.example.flutter_braintree-jetified-braintree-core-4.38.2-15 C:\Users\dougl\.gradle\caches\transforms-3\7abd73cd2dc88925db77d0a734e867e8\transformed\jetified-braintree-core-4.38.2\res
+com.example.flutter_braintree-jetified-emoji2-views-helper-1.0.0-alpha03-16 C:\Users\dougl\.gradle\caches\transforms-3\89d2cf701f729ab6b72850e46453dead\transformed\jetified-emoji2-views-helper-1.0.0-alpha03\res
+com.example.flutter_braintree-jetified-startup-runtime-1.0.0-17 C:\Users\dougl\.gradle\caches\transforms-3\8cfec61075abc3e438c84bb1ee0eaf19\transformed\jetified-startup-runtime-1.0.0\res
+com.example.flutter_braintree-fragment-1.4.1-18 C:\Users\dougl\.gradle\caches\transforms-3\92c96164d4ad562b896051a295ae2096\transformed\fragment-1.4.1\res
+com.example.flutter_braintree-jetified-drop-in-6.13.0-19 C:\Users\dougl\.gradle\caches\transforms-3\a0f9a5bdc6c709f51e39f5c241d9ab7d\transformed\jetified-drop-in-6.13.0\res
+com.example.flutter_braintree-jetified-savedstate-1.1.0-20 C:\Users\dougl\.gradle\caches\transforms-3\a106e1085483c62d6df2be970a4e0744\transformed\jetified-savedstate-1.1.0\res
+com.example.flutter_braintree-material-1.4.0-21 C:\Users\dougl\.gradle\caches\transforms-3\a23a97059f4d03e0627f2ad97c322e85\transformed\material-1.4.0\res
+com.example.flutter_braintree-jetified-play-services-maps-18.0.2-22 C:\Users\dougl\.gradle\caches\transforms-3\a4fcaa4e658677e7b704e737a246039e\transformed\jetified-play-services-maps-18.0.2\res
+com.example.flutter_braintree-cardview-1.0.0-23 C:\Users\dougl\.gradle\caches\transforms-3\a76e74f3599754b65a2c1124bab21869\transformed\cardview-1.0.0\res
+com.example.flutter_braintree-lifecycle-runtime-2.4.1-24 C:\Users\dougl\.gradle\caches\transforms-3\b0734372686daa105865fcf09597cba7\transformed\lifecycle-runtime-2.4.1\res
+com.example.flutter_braintree-constraintlayout-2.0.4-25 C:\Users\dougl\.gradle\caches\transforms-3\b43f2e19c0168ed54539d0cdecd0e0ab\transformed\constraintlayout-2.0.4\res
+com.example.flutter_braintree-appcompat-1.4.0-alpha03-26 C:\Users\dougl\.gradle\caches\transforms-3\b979d5ca0a7eedc9fdbf79379b02f964\transformed\appcompat-1.4.0-alpha03\res
+com.example.flutter_braintree-work-runtime-2.7.0-alpha05-27 C:\Users\dougl\.gradle\caches\transforms-3\d7af4af28661a7ce57d2d96b93c59e8a\transformed\work-runtime-2.7.0-alpha05\res
+com.example.flutter_braintree-jetified-browser-switch-2.6.0-28 C:\Users\dougl\.gradle\caches\transforms-3\e261e6488fb589a2e36ee9ace476d30a\transformed\jetified-browser-switch-2.6.0\res
+com.example.flutter_braintree-jetified-lifecycle-process-2.4.0-alpha02-29 C:\Users\dougl\.gradle\caches\transforms-3\ebc4d88036fd838840bb690765f3ae30\transformed\jetified-lifecycle-process-2.4.0-alpha02\res
+com.example.flutter_braintree-jetified-play-services-wallet-19.1.0-30 C:\Users\dougl\.gradle\caches\transforms-3\f38f56b099d12b7e79be22aa089bc8c6\transformed\jetified-play-services-wallet-19.1.0\res
+com.example.flutter_braintree-jetified-appcompat-resources-1.4.0-alpha03-31 C:\Users\dougl\.gradle\caches\transforms-3\f4fef0a4f3c257512815e3065164937c\transformed\jetified-appcompat-resources-1.4.0-alpha03\res
+com.example.flutter_braintree-lifecycle-viewmodel-2.3.1-32 C:\Users\dougl\.gradle\caches\transforms-3\f90a97ebbac80bff20105517c6596022\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.flutter_braintree-jetified-viewpager2-1.0.0-33 C:\Users\dougl\.gradle\caches\transforms-3\fbac8a85bdccb4733f9a40cc607a9fdb\transformed\jetified-viewpager2-1.0.0\res
+com.example.flutter_braintree-jetified-card-form-5.4.0-34 C:\Users\dougl\.gradle\caches\transforms-3\fda5ec6d9d1fc405d07b8e0d4c90b593\transformed\jetified-card-form-5.4.0\res
+com.example.flutter_braintree-main-35 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_braintree-4.0.0\android\src\main\res
+com.example.flutter_braintree-release-36 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_braintree-4.0.0\android\src\release\res
+com.example.flutter_braintree-pngs-37 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_braintree\generated\res\pngs\release
+com.example.flutter_braintree-resValues-38 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_braintree\generated\res\resValues\release
+com.example.flutter_braintree-rs-39 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_braintree\generated\res\rs\release
+com.example.flutter_braintree-mergeReleaseResources-40 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_braintree\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.flutter_braintree-mergeReleaseResources-41 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_braintree\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.flutter_braintree-merged_res-42 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\flutter_braintree\intermediates\merged_res\release

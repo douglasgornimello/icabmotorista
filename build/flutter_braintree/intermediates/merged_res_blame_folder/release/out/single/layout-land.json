@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/activity_oob_challenge_view.xml",
+        "source": "com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9:/layout-land/activity_oob_challenge_view.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/material_clock_period_toggle_land.xml",
+        "source": "com.example.flutter_braintree-material-1.4.0-21:/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/challenge_toolbar_cf.xml",
+        "source": "com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9:/layout-land/challenge_toolbar_cf.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/progress_view_2.xml",
+        "source": "com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9:/layout-land/progress_view_2.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/activity_otp_challenge_view.xml",
+        "source": "com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9:/layout-land/activity_otp_challenge_view.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/activity_single_select_challenge_view.xml",
+        "source": "com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9:/layout-land/activity_single_select_challenge_view.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "com.example.flutter_braintree-material-1.4.0-21:/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/challenge_labelview_cf.xml",
+        "source": "com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9:/layout-land/challenge_labelview_cf.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/text_info_body_view.xml",
+        "source": "com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9:/layout-land/text_info_body_view.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/material_timepicker.xml",
+        "source": "com.example.flutter_braintree-material-1.4.0-21:/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/activity_multi_select_challenge_view.xml",
+        "source": "com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9:/layout-land/activity_multi_select_challenge_view.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-41:/layout-land/challege_footer.xml",
+        "source": "com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-9:/layout-land/challege_footer.xml"
+    }
+]

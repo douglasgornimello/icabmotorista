@@ -1,0 +1,12 @@
+net.nfet.flutter.printing-jetified-window-1.0.0-beta04-0 C:\Users\dougl\.gradle\caches\transforms-3\4f142809ef34e19bdf60ff3af73ee373\transformed\jetified-window-1.0.0-beta04\res
+net.nfet.flutter.printing-jetified-annotation-experimental-1.1.0-1 C:\Users\dougl\.gradle\caches\transforms-3\614c6f7f48de9669e6c19ac437503f15\transformed\jetified-annotation-experimental-1.1.0\res
+net.nfet.flutter.printing-jetified-window-java-1.0.0-beta04-2 C:\Users\dougl\.gradle\caches\transforms-3\671922642d780fa8a0937f0e9e73af45\transformed\jetified-window-java-1.0.0-beta04\res
+net.nfet.flutter.printing-core-1.6.0-3 C:\Users\dougl\.gradle\caches\transforms-3\6c30e2d4e8f32715236d7b1b5d6aec98\transformed\core-1.6.0\res
+net.nfet.flutter.printing-main-4 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.12.0\android\src\main\res
+net.nfet.flutter.printing-release-5 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.12.0\android\src\release\res
+net.nfet.flutter.printing-pngs-6 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\printing\generated\res\pngs\release
+net.nfet.flutter.printing-resValues-7 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\printing\generated\res\resValues\release
+net.nfet.flutter.printing-rs-8 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\printing\generated\res\rs\release
+net.nfet.flutter.printing-mergeReleaseResources-9 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\printing\intermediates\incremental\release\mergeReleaseResources\merged.dir
+net.nfet.flutter.printing-mergeReleaseResources-10 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\printing\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+net.nfet.flutter.printing-merged_res-11 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\printing\intermediates\merged_res\release

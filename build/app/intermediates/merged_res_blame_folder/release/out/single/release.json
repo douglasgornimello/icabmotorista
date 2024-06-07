@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/drawable-xxxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/drawable-xxxhdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/drawable-v21_launch_background.xml.flat",
+        "source": "com.icab.appmotorista.app-main-122:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/drawable-hdpi_ic_stat_onesignal_default.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/drawable-hdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/drawable-mdpi_ic_stat_onesignal_default.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/drawable-mdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/drawable-xxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/drawable-xxhdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/drawable-xhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/drawable-xhdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.icab.appmotorista.app-merged_res-129:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.icab.appmotorista.app-main-122:/mipmap-mdpi/ic_launcher_foreground.png"
+    }
+]

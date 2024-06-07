@@ -1,0 +1,27 @@
+in.appyflow.paytm-databinding-runtime-4.2.2-0 C:\Users\dougl\.gradle\caches\transforms-3\0be5cf132a573ad49e6a93a5396cfa06\transformed\databinding-runtime-4.2.2\res
+in.appyflow.paytm-jetified-appinvokesdk-1.6.4-1 C:\Users\dougl\.gradle\caches\transforms-3\1a39968c9e8de9cf726e13c58e31d4b9\transformed\jetified-appinvokesdk-1.6.4\res
+in.appyflow.paytm-jetified-window-1.0.0-beta04-2 C:\Users\dougl\.gradle\caches\transforms-3\4f142809ef34e19bdf60ff3af73ee373\transformed\jetified-window-1.0.0-beta04\res
+in.appyflow.paytm-jetified-annotation-experimental-1.1.0-3 C:\Users\dougl\.gradle\caches\transforms-3\614c6f7f48de9669e6c19ac437503f15\transformed\jetified-annotation-experimental-1.1.0\res
+in.appyflow.paytm-appcompat-1.3.1-4 C:\Users\dougl\.gradle\caches\transforms-3\65538aa5d88fb7eb4a88e34b7940eec6\transformed\appcompat-1.3.1\res
+in.appyflow.paytm-jetified-appcompat-resources-1.3.1-5 C:\Users\dougl\.gradle\caches\transforms-3\670dca987037950f122ccae417d223d2\transformed\jetified-appcompat-resources-1.3.1\res
+in.appyflow.paytm-jetified-window-java-1.0.0-beta04-6 C:\Users\dougl\.gradle\caches\transforms-3\671922642d780fa8a0937f0e9e73af45\transformed\jetified-window-java-1.0.0-beta04\res
+in.appyflow.paytm-constraintlayout-2.1.0-7 C:\Users\dougl\.gradle\caches\transforms-3\6a2b0786abab3f537acabd110abaa567\transformed\constraintlayout-2.1.0\res
+in.appyflow.paytm-core-1.6.0-8 C:\Users\dougl\.gradle\caches\transforms-3\6c30e2d4e8f32715236d7b1b5d6aec98\transformed\core-1.6.0\res
+in.appyflow.paytm-databinding-adapters-4.2.2-9 C:\Users\dougl\.gradle\caches\transforms-3\763955fdd859d27fc5c80944ea549d91\transformed\databinding-adapters-4.2.2\res
+in.appyflow.paytm-jetified-easypay-appinvoke-1.7.3-10 C:\Users\dougl\.gradle\caches\transforms-3\7841094a8f0c83a95fa85b2179ad0939\transformed\jetified-easypay-appinvoke-1.7.3\res
+in.appyflow.paytm-lifecycle-runtime-2.3.1-11 C:\Users\dougl\.gradle\caches\transforms-3\931619970ebee88199c3bdcdea4d480a\transformed\lifecycle-runtime-2.3.1\res
+in.appyflow.paytm-jetified-savedstate-1.1.0-12 C:\Users\dougl\.gradle\caches\transforms-3\a106e1085483c62d6df2be970a4e0744\transformed\jetified-savedstate-1.1.0\res
+in.appyflow.paytm-cardview-1.0.0-13 C:\Users\dougl\.gradle\caches\transforms-3\a76e74f3599754b65a2c1124bab21869\transformed\cardview-1.0.0\res
+in.appyflow.paytm-media-1.0.0-14 C:\Users\dougl\.gradle\caches\transforms-3\dcf5e33c00a3df5612393bd165888ca4\transformed\media-1.0.0\res
+in.appyflow.paytm-fragment-1.3.6-15 C:\Users\dougl\.gradle\caches\transforms-3\e5d037f5bc98da85c598f53886ff521d\transformed\fragment-1.3.6\res
+in.appyflow.paytm-jetified-lottie-3.4.0-16 C:\Users\dougl\.gradle\caches\transforms-3\f5b1a91960147b088b4101f1bc0a5be7\transformed\jetified-lottie-3.4.0\res
+in.appyflow.paytm-lifecycle-viewmodel-2.3.1-17 C:\Users\dougl\.gradle\caches\transforms-3\f90a97ebbac80bff20105517c6596022\transformed\lifecycle-viewmodel-2.3.1\res
+in.appyflow.paytm-coordinatorlayout-1.0.0-18 C:\Users\dougl\.gradle\caches\transforms-3\fcc75423c4ef0c243e8a4913f2f88afb\transformed\coordinatorlayout-1.0.0\res
+in.appyflow.paytm-main-19 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\paytm-3.0.1\android\src\main\res
+in.appyflow.paytm-release-20 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\paytm-3.0.1\android\src\release\res
+in.appyflow.paytm-pngs-21 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\paytm\generated\res\pngs\release
+in.appyflow.paytm-resValues-22 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\paytm\generated\res\resValues\release
+in.appyflow.paytm-rs-23 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\paytm\generated\res\rs\release
+in.appyflow.paytm-mergeReleaseResources-24 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\paytm\intermediates\incremental\release\mergeReleaseResources\merged.dir
+in.appyflow.paytm-mergeReleaseResources-25 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\paytm\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+in.appyflow.paytm-merged_res-26 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\paytm\intermediates\merged_res\release

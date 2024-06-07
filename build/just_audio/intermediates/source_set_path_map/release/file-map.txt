@@ -1,0 +1,18 @@
+com.ryanheise.just_audio-media-1.4.1-0 C:\Users\dougl\.gradle\caches\transforms-3\008d4623111585634652f19cf2460525\transformed\media-1.4.1\res
+com.ryanheise.just_audio-core-1.7.0-1 C:\Users\dougl\.gradle\caches\transforms-3\20abbdecca200ba19dc1157dae78c178\transformed\core-1.7.0\res
+com.ryanheise.just_audio-jetified-window-1.0.0-beta04-2 C:\Users\dougl\.gradle\caches\transforms-3\4f142809ef34e19bdf60ff3af73ee373\transformed\jetified-window-1.0.0-beta04\res
+com.ryanheise.just_audio-jetified-annotation-experimental-1.1.0-3 C:\Users\dougl\.gradle\caches\transforms-3\614c6f7f48de9669e6c19ac437503f15\transformed\jetified-annotation-experimental-1.1.0\res
+com.ryanheise.just_audio-jetified-window-java-1.0.0-beta04-4 C:\Users\dougl\.gradle\caches\transforms-3\671922642d780fa8a0937f0e9e73af45\transformed\jetified-window-java-1.0.0-beta04\res
+com.ryanheise.just_audio-jetified-media2-common-1.2.1-5 C:\Users\dougl\.gradle\caches\transforms-3\7ee04291423859bb44c73497f89181b2\transformed\jetified-media2-common-1.2.1\res
+com.ryanheise.just_audio-lifecycle-runtime-2.3.1-6 C:\Users\dougl\.gradle\caches\transforms-3\931619970ebee88199c3bdcdea4d480a\transformed\lifecycle-runtime-2.3.1\res
+com.ryanheise.just_audio-jetified-exoplayer-core-2.18.7-7 C:\Users\dougl\.gradle\caches\transforms-3\ca4229eeff6fb7da895b61ed241b9363\transformed\jetified-exoplayer-core-2.18.7\res
+com.ryanheise.just_audio-jetified-media2-session-1.2.1-8 C:\Users\dougl\.gradle\caches\transforms-3\f133aac3c9840b13c3a80bc952d0c276\transformed\jetified-media2-session-1.2.1\res
+com.ryanheise.just_audio-main-9 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.9.37\android\src\main\res
+com.ryanheise.just_audio-release-10 C:\Users\dougl\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.9.37\android\src\release\res
+com.ryanheise.just_audio-packaged_res-11 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\audio_session\intermediates\packaged_res\release
+com.ryanheise.just_audio-pngs-12 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\just_audio\generated\res\pngs\release
+com.ryanheise.just_audio-resValues-13 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\just_audio\generated\res\resValues\release
+com.ryanheise.just_audio-rs-14 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\just_audio\generated\res\rs\release
+com.ryanheise.just_audio-mergeReleaseResources-15 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\just_audio\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ryanheise.just_audio-mergeReleaseResources-16 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\just_audio\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ryanheise.just_audio-merged_res-17 C:\Users\dougl\Box\ICAB\codecanyon-oHOiJHKt-mightytaxi-flutter-online-taxi-booking-app-taxi-app-admin-backend-driver-app\MightyTaxiSourceCode0\Driver App\build\just_audio\intermediates\merged_res\release
